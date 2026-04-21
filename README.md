@@ -20,4 +20,4 @@ This project demonstrates how to connect Django with PostgreSQL.
 5. Run server
 
 ## Author
-Aathithiyan  
+Aathithiyan P
